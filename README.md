@@ -22,6 +22,7 @@ The dashboard helps identify global trends and understand how Netflix’s librar
 
 
 ## 🖼 Dashboard Preview
+![Dashboard](https://github.com/user-attachments/assets/9e9d9597-b564-4535-bfbf-22ee8a7d2e79)
 
  
 ---
