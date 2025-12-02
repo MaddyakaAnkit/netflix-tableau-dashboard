@@ -67,12 +67,12 @@ Shows Netflix’s strong diversity of global content.
 ## 📁 Repository Structure
 
 ```
-├── Dashboard.jpg          # Full-resolution dashboard image
-├── README.md              # Documentation (this file)
-└── netflix_titles.csv     # Dataset used for analysis (optional)
+├── Dashboard.jpg          
+├── README.md              
+└── netflix_titles.csv     
 ```
 
-*(No Tableau workbook uploaded by choice.)*
+
 
 ---
 
