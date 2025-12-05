@@ -97,12 +97,6 @@ If you like this project, feel free to ⭐ the repo or connect on LinkedIn!
 
 ---
 
-Let me know if you want:
-✔ a shorter version  
-✔ a more formal version  
-✔ a beginner-friendly version  
-✔ GitHub tags / badges added  
-✔ to turn this into a portfolio website page  
 ✔ a PDF version of the README  
 
 Just tell me! 
