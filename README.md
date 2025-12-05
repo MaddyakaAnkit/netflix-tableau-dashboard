@@ -97,5 +97,4 @@ If you like this project, feel free to ⭐ the repo or connect on LinkedIn!
 
 ---
 
-Just tell me! 
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/e803124b-b4c2-4cd5-855e-35f8c9d91b83" />
+
